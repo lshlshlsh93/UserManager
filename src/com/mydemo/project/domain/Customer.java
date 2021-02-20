@@ -3,7 +3,7 @@ package com.mydemo.project.domain;
 /**
  * 
  * @Description Customer为实体对象，用来封装对象信息
- * @author LSH QQ:1945773750
+ * @author LSH 
  * @version
  * @date 2021-1-14 10:34:32
  *
